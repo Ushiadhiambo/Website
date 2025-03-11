@@ -1,0 +1,267 @@
+.navbar{
+    display: flex;
+    gap: 1cm;
+}
+.homepage ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    gap: 2cm;
+    
+}
+
+    .values{
+    display: flex;
+    gap: 2cm;
+    
+}
+.content-right img{
+    width: 130%;
+    margin-right: 20px;
+
+
+}
+.main-container{
+    display: flex;
+    gap: 2cm;
+}
+body{
+    background-color:gainsboro ;
+
+
+
+   
+}
+.heading{
+    margin-bottom: 90px;
+    
+}
+.names{
+    position: relative;
+}
+.image{
+    display: flex;
+    gap: 4cm;
+
+    }
+.rt{
+    width: 150%;
+    
+}
+.rt1{
+    width: 152%;
+}
+.rt2{
+    width: 143%;
+}
+.rt3{
+    width: 155%;
+}
+.space1{
+    text-align: center;
+}
+#smallsentence{
+    text-align: center;
+
+}
+.d{
+    width: 100%;
+    margin-top: 90px;
+    height: 500px;
+    
+}
+.space{
+    display: flex;
+}
+.right{
+    padding-top: 4%;
+    font-size: large;
+    padding-right: 10%;
+    padding-left: 20%;
+   
+}
+#shopnow{
+    border-top-left-radius: 35px;
+    border-top-right-radius: 35px;
+    border-bottom-right-radius: 35px;
+    border-bottom-left-radius: 35px;
+    width: 150px;
+    height: 90px;
+    background-color: grey;
+    color: beige;
+    padding: 8px 12px;
+
+}
+.main-right-left{
+   display: flex; 
+}
+.a{
+    width: 180%;
+    padding-left:65% ;
+    height: 40%;
+    
+
+}
+.ideas-left{
+    font-size: large;
+    padding-right: 10%;
+}
+.offer{
+    display: flex;
+    justify-content: center;
+}
+#sentence{
+    text-align: center;
+}
+.offers{
+    display: flex;
+    margin-left: 10%;
+    gap: 2cm;
+    
+}
+.tr{
+    width: 30%;
+    border: 1px solid;
+    border-radius: 8px;
+    background-color: grey;
+  
+    
+}
+.tr1{
+    width: 30%;
+    border: 1px solid;
+    border-radius: 8px;
+    background-color: grey;
+}
+.tr2{
+    width: 30%;
+    border: 1px solid;
+    border-radius: 8px;
+    background-color: grey;
+}
+.tr3{
+    width: 30%;
+    border: 1px solid;
+    border-radius: 8px;
+    background-color: grey;
+}
+.p1{
+    margin-left: -10%;
+}
+.p2{
+    margin-left: -20%;
+}
+.p3{
+    margin-left: -20%;
+}
+.p4{
+    margin-left: -20%;
+}
+.reviews{
+    display: flex;
+    justify-content: center;
+}
+#s{
+    text-align: center;
+}
+.Reviews{
+    display: flex;
+}
+.c{
+    width: 200%;
+}
+.r{
+    margin-left: 30%;
+    margin-top: 10%;
+    font-size: larger;
+}
+.Tables{
+    border-collapse: separate;
+    border-spacing: 30px;
+    justify-content: center;
+    
+}
+th, td{
+    padding: 12px;
+}
+#company{
+    display: flex;
+    justify-content: end;
+}
+.a{
+    width: 200%;
+    height: 100%;
+}
+#startnow{
+    border-top-left-radius: 35px;
+    border-top-right-radius: 35px;
+    border-bottom-right-radius: 35px;
+    border-bottom-left-radius: 35px;
+    width: 150px;
+    height: 90px;
+    background-color: grey;
+    color: beige;
+    padding: 8px 12px;
+
+}
+#Shop{
+    border-top-left-radius: 35px;
+    border-top-right-radius: 35px;
+    border-bottom-right-radius: 35px;
+    border-bottom-left-radius: 35px;
+    width: 150px;
+    height: 90px;
+    background-color: grey;
+    color: beige;
+    padding: 8px 12px;
+
+}
+#video{
+    width: 50%;
+}
+section{
+    border: 1px solid gainsboro;
+    background-color:white;
+    margin: 0 auto;
+    width:70% ;
+    padding: 50px 20px 50px 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#Video{
+    border: 1px solid;
+    margin-left: 30px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    width: 5%;
+    height: 3%;
+    padding: 0 0 0  10px;
+}
+.Names{
+    display: flex;
+    gap: 1cm;
+
+}
+#ikea{
+    margin-top: 15px;
+}
+#parker{
+  margin-top: 30px;
+}
+.dotted{
+    border-bottom: 2px dotted #000;
+    position: relative;
+    border-top: 2px dotted #000;
+    border-left: 2px dotted #000;
+    border-right: 2px dotted #000;
+
+}
+
+
+h1{
+    font-size: 250%;
+}
+
+
+
